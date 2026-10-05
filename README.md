@@ -2,6 +2,10 @@
 
 An end-to-end machine learning project: a scikit-learn model that predicts a person's **insurance premium category** (Low / Medium / High), served through a **FastAPI** backend and used from a **Streamlit** frontend.
 
+## Live demo
+
+Try the app here: [insurance-premium-category-predictor-1.streamlit.app](https://insurance-premium-category-predictor-1.streamlit.app/)
+
 ## How it works
 
 ```
