@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic>=2.0
+pandas
+numpy
+scikit-learn==1.9.1
+streamlit
+requests
+
+# Only needed to re-run ml-model.ipynb
+# ipykernel
+# jupyter
